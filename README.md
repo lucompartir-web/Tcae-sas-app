@@ -38,3 +38,14 @@ tcae-sas-app/
 ├── package.json
 ├── README.md
 └── .gitignore
+/node_modules
+/build
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
